@@ -6,5 +6,10 @@ public class Demo {
 		System.out.println("Sample_One");
 
 	}
+	
+	private void sample_Two() {
+		System.out.println("Sample_Two");
+
+	}
 
 }
