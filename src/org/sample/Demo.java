@@ -11,5 +11,10 @@ public class Demo {
 		System.out.println("Sample_Two");
 
 	}
+	
+	private void sample_Three() {
+		System.out.println("Test_Three");
+
+	}
 
 }
