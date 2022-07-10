@@ -6,15 +6,19 @@ public class Demo {
 		System.out.println("Sample_One");
 
 	}
-	
+
 	private void sample_Two() {
 		System.out.println("Sample_Two");
 
 	}
-	
+
+	private void sample_Three() {
+		System.out.println("Test_Three");
+
+	}
+
 	private void sample_Four() {
 		System.out.println("Sample_Four");
-
 	}
 
 }
